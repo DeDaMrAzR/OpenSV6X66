@@ -1,0 +1,10 @@
+/AGENTS.md
+/.agents/
+/TEST/
+/output/
+/toolchain/extracted/
+/sdk/out/
+/sdk/image/
+/sdk/build/project_cfg.mk
+/sdk/build_error.log
+/sdk/version.c
