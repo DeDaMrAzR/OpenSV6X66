@@ -1,4 +1,3 @@
-#include "sv6x66_platform.h"
 #include "new_common.h"
 #include "hal/hal_wifi.h"
 #include "logging/logging.h"
